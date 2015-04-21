@@ -2,6 +2,8 @@
 //此为主程序，由他去创建多个进程，并创建共享内存
 //
 
+//fetch test
+
 #include "stdio.h"
 #include "stdlib.h"
 #include <sys/ipc.h>
